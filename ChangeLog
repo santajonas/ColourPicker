@@ -1,0 +1,14 @@
+# ChangeLog
+## Released
+### version 1.1
+
+# Changed
+-Changed Double Values of colours to int.
+-After removing or mixing colours the combobox will update.
+-changed standard size of the window.
+
+# Added
+-Button to remove selected object from combobox/list.
+-Button to print out number of gray colours.
+
+
